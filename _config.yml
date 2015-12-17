@@ -1,0 +1,28 @@
+name: Al White
+favicon: null
+layout_spectrum: 0.9503427075687796
+typography_spectrum: 0.5531675729434937
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.18727899133227766
+  lightness: 0.15938316355459392
+  saturation: 0.36735770059749484
+  rhythmicContrast: 0.7286874686833471
+purpose: []
